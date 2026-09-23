@@ -1,0 +1,25 @@
+{
+  "title": "Observatório da Transformação Digital: metodologia de auditoria por IA",
+  "description": "Metodologia genérica (prompts e template) de monitoramento e auditoria assistida por IA do cumprimento de propostas de governo em transformação digital (governo digital, economia digital e cidadania digital), com uso de pedidos de acesso à informação (LAI) como fonte primária.",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "language": "por",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Santos Júnior, Darci de Borba",
+      "affiliation": "Instituto de Pesquisa Econômica Aplicada (Ipea)",
+      "orcid": "0000-0001-9851-5034"
+    }
+  ],
+  "keywords": [
+    "administração pública",
+    "prompts de IA",
+    "auditoria",
+    "governo digital",
+    "engenharia de prompts",
+    "transformação digital",
+    "inteligência artificial"
+  ],
+  "license": "cc-by-4.0"
+}
