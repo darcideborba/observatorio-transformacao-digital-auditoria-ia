@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Se usar este material, cite-o conforme os metadados abaixo."
+type: software
+title: "Observatório da Transformação Digital: metodologia de auditoria por IA"
+abstract: "Metodologia genérica (prompts e template) de monitoramento e auditoria assistida por IA do cumprimento de propostas de governo em transformação digital (governo digital, economia digital e cidadania digital), com uso de pedidos de acesso à informação (LAI) como fonte primária."
+authors:
+  - family-names: "Santos Júnior"
+    given-names: "Darci de Borba"
+    affiliation: "Instituto de Pesquisa Econômica Aplicada (Ipea)"
+    orcid: "https://orcid.org/0000-0001-9851-5034"
+version: "1.0.0"
+date-released: "2026-09-23"
+repository-code: "https://github.com/darcideborba/observatorio-transformacao-digital-auditoria-ia"
+license: CC-BY-4.0
+keywords:
+  - "administração pública"
+  - "prompts de IA"
+  - "auditoria"
+  - "governo digital"
+  - "engenharia de prompts"
+  - "transformação digital"
+  - "inteligência artificial"
